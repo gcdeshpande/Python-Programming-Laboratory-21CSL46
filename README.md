@@ -18,7 +18,7 @@ Python Programming Laboratory (21CSL46) VTU, Belagavi
 2. Python program to convert roman numeral in to intger values using dictionary [REPL Link](https://replit.com/@gcdeshpande/21CSL464b?v=1)
 
 ## TermWork 5:
-1. Write a function called isphonenumber () to recognize a pattern 415-555-4242 without using regular expression and also write the code to recognize the same pattern using regular expression.
+1. Write a function called isphonenumber () to recognize a pattern 415-555-4242 without using regular expression and also write the code to recognize the same pattern using regular expression. [REPL Link (https://replit.com/@gcdeshpande/21CSL465a?v=1)]
 2. Develop a python program that could search the text in a file for phone numbers (+919900889977) and email addresses (sample@gmail.com)
 
 ## TermWork 6:
