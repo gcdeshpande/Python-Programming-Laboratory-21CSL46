@@ -1,0 +1,12 @@
+Here are some contact details for you:
+
+Phone Numbers:
++1234567890
++919900889977
++918877665544
+
+Email Addresses:
+test@example.com
+info@example.com
+support@sample.org
+user.name123@gmail.com
