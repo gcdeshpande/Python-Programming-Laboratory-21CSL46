@@ -13,7 +13,7 @@ def find_phone_numbers_and_emails(filename):
     return phone_numbers, email_addresses
 
 # Replace 'your_file.txt' with the actual file path
-file_path = 'your_file.txt'
+file_path = '5b.txt'
 phone_numbers, email_addresses = find_phone_numbers_and_emails(file_path)
 
 print("Phone Numbers:")
