@@ -3,7 +3,7 @@ Python Programming Laboratory (21CSL46) VTU, Belagavi
 
 ## TermWork 1:
 1..
-2..
+2. Develop a Python program to check whether a given number is palindrome or not and also count the number of occurrences of each digit in the input number.[REPL Link](https://replit.com/@gcdeshpande/21CSL461b?v=1)
 
 ## TermWork 2:
 1..
